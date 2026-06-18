@@ -1,0 +1,2 @@
+# Product-Line-Profitability-Margin-Performance-Analysis-for-Nassau-Candy-Distributor
+Interactive Streamlit dashboard analyzing product line profitability and margin performance for Nassau Candy Distributor. Features a product profitability leaderboard, division performance comparison, cost vs margin diagnostics, and Pareto profit concentration analysis — with live filters for date range, division, margin threshold,  product search.
